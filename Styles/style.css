@@ -484,7 +484,7 @@ swiper-slide img {
     color: var(--font-2);
   }
   .product-box:nth-child(odd) .product-desc {
-    right: 77%;
+    right: 75%;
   }
 }
 /* Aboute us Styles */
